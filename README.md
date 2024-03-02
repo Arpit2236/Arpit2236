@@ -1,3 +1,4 @@
+# 🙋‍♂️ Hi There! My Name is Arpit Agarwal
 # 💫 About Me:
 I am passionate about leveraging data to solve complex problems and contribute to strategic decision-making. I am seeking opportunities to expand my data analysis expertise and contribute to a data-driven culture.<br>I am proficient in using SQL, Python, and Power BI for data wrangling, analysis, and visualization.<br>
 
@@ -12,10 +13,10 @@ I am passionate about leveraging data to solve complex problems and contribute t
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arpit2236&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit2236&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
